@@ -60,7 +60,7 @@
   - Endpoint : **versions.json**
   - Full URL : [https://ddragon.leagueoflegends.com/api/versions.json](https://ddragon.leagueoflegends.com/api/versions.json)
 
-
+sp
 
 #### REALMS
 
